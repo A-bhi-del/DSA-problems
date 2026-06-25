@@ -39,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [1615-maximal-network-rank](https://github.com/A-bhi-del/DSA-problems/tree/master/1615-maximal-network-rank) |
 <!---LeetCode Topics End-->
