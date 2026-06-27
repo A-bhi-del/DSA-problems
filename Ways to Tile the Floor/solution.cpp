@@ -1,6 +1,6 @@
 class Solution {
   public:
-    int dp[200000];
+    int dp[100001];
     int mod = 1e9+7;
     int solve(int idx, int n, int m){
         if(idx == n){
