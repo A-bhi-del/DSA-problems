@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/A-bhi-del/DSA-problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/A-bhi-del/DSA-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/A-bhi-del/DSA-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/A-bhi-del/DSA-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/A-bhi-del/DSA-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
