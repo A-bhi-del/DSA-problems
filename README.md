@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/A-bhi-del/DSA-problems/tree/master/0684-redundant-connection) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/A-bhi-del/DSA-problems/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1615-maximal-network-rank](https://github.com/A-bhi-del/DSA-problems/tree/master/1615-maximal-network-rank) |
 ## Enumeration
 |  |
