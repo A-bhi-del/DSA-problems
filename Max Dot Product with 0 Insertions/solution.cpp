@@ -1,6 +1,6 @@
 class Solution {
   public:
-    long long solve(int i, int j, vector<int>& a, vector<int>& b, vector<vector<long long>>& dp){
+    int solve(int i, int j, vector<int>& a, vector<int>& b, vector<vector<int>>& dp){
         if(j >= b.size()){
             return 0;
         }
@@ -13,8 +13,8 @@ class Solution {
             return dp[i][j];
         }
         
-        long long take = a[i] * b[j] + solve(i+1, j+1, a, b,dp);
-        long long not_take = solve(i+1, j, a, b,dp);
+        int take = 1LL* a[i] * b[j] + solve(i+1, j+1, a, b,dp);
+        int not_take = solve(i+1, j, a, b,dp);
         
         return dp[i][j] = max(take, not_take);
     }
@@ -24,9 +24,9 @@ class Solution {
         int an = a.size();
         int bn = b.size();
         
-        vector<vector<long long>>dp(an, vector<long long>(bn, INT_MIN));
+        vector<vector<int>>dp(an, vector<int>(bn, INT_MIN));
         
-        return (int)solve(0,0,a,b, dp);
+        return solve(0,0,a,b, dp);
     }
 };
 
