@@ -48,7 +48,7 @@ Follow up: Could you come up with a one-pass algorithm using only constant extra
 
 ---
 
-### 🏢 Company Tags
+### 🏢 Topic Tags
 
 > `Arrays` `Sorting` `Data Structures` `Algorithms`
 
