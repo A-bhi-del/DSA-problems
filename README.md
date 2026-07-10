@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/A-bhi-del/DSA-problems/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/A-bhi-del/DSA-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/A-bhi-del/DSA-problems/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3664-two-letter-card-game](https://github.com/A-bhi-del/DSA-problems/tree/master/3664-two-letter-card-game) |
 | [3665-twisted-mirror-path-count](https://github.com/A-bhi-del/DSA-problems/tree/master/3665-twisted-mirror-path-count) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -37,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/A-bhi-del/DSA-problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/A-bhi-del/DSA-problems/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/A-bhi-del/DSA-problems/tree/master/1288-remove-covered-intervals) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/A-bhi-del/DSA-problems/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/A-bhi-del/DSA-problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting
 |  |
 | ------- |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/A-bhi-del/DSA-problems/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1615-maximal-network-rank](https://github.com/A-bhi-del/DSA-problems/tree/master/1615-maximal-network-rank) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/A-bhi-del/DSA-problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/A-bhi-del/DSA-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/A-bhi-del/DSA-problems/tree/master/1301-number-of-paths-with-max-score) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/A-bhi-del/DSA-problems/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/A-bhi-del/DSA-problems/tree/master/3665-twisted-mirror-path-count) |
 ## Topological Sort
 |  |
@@ -137,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0911-online-election](https://github.com/A-bhi-del/DSA-problems/tree/master/0911-online-election) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/A-bhi-del/DSA-problems/tree/master/1300-sum-of-mutated-array-closest-to-target) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/A-bhi-del/DSA-problems/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3934-smallest-unique-subarray](https://github.com/A-bhi-del/DSA-problems/tree/master/3934-smallest-unique-subarray) |
 ## Rolling Hash
@@ -168,10 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/A-bhi-del/DSA-problems/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/A-bhi-del/DSA-problems/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Simulation
 |  |
