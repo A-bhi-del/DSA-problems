@@ -67,12 +67,12 @@ class Solution {
                 int prime = PF[length];
                 int count = 0;
                 
-                if(length % prime == 0){
+                while(length % prime == 0){
                     length /= prime;
                     count++;
                 }
                 
-                freq[prime] += count;
+                freq[prime] = count;
             }
             
             for(auto it : freq){
