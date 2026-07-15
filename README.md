@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1037-valid-boomerang](https://github.com/A-bhi-del/DSA-problems/tree/master/1037-valid-boomerang) |
+| [1492-the-kth-factor-of-n](https://github.com/A-bhi-del/DSA-problems/tree/master/1492-the-kth-factor-of-n) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/A-bhi-del/DSA-problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Geometry
@@ -220,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/A-bhi-del/DSA-problems/tree/master/0413-arithmetic-slices) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/A-bhi-del/DSA-problems/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
