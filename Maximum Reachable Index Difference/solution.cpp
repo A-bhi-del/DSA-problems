@@ -4,7 +4,7 @@ class Solution {
         // code here
         int n = s.length();
         
-        vector<int>dp(26, -1);
+        vector<bool>dp(26, false);
         
         int is_a = -1;
         
@@ -16,7 +16,8 @@ class Solution {
         }
         
         if(is_a == -1) return -1;
-        dp[0]=1;
+        
+        dp[0] = true;
         int st = is_a;
         int e = is_a;
         
@@ -27,7 +28,7 @@ class Solution {
                 i++;
                 continue;
             }
-            if(dp[s[i] - 'a' - 1] == 1){
+            if(dp[s[i] - 'a' - 1]){
                 e = i;
                 dp[s[i]-'a']=1;
             }
