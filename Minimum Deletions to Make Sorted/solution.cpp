@@ -7,15 +7,15 @@ class Solution {
         
         for(int i = 0; i < n; i++){
             int s = 0;
-            int e = temp.size();
+            int e = temp.size()-1;
             
-            while(s < e){
+            while(s <= e){
                 int mid = s + (e - s)/2;
                 
                 if(temp[mid] < arr[i]){
                     s = mid + 1;
                 }else{
-                    e = mid;
+                    e = mid - 1;
                 }
             }
             
