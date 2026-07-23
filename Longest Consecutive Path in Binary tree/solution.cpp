@@ -14,26 +14,25 @@ class Node {
 */
 class Solution {
   public:
-    int max_path = 0;
-    void solve(Node* root, int prev, int len){
+    int solve(Node* root, int prev, int len){
         if(root == NULL){
-            return;
+            return 0;
         }
         
         if(prev == -1 || root->data == prev+1){
             len++;
-        }else{
+        }else if(root->data != prev+1){
             len = 1;
         }
-        max_path = max(max_path, len);
         
-        solve(root->left, root->data, len);
-        solve(root->right, root->data, len);
+        int left = solve(root->left, root->data, len);
+        int right = solve(root->right, root->data, len);
+        
+        return max({len, left, right});
     }
     
     int longestConsecutive(Node* root) {
         // code here
-        solve(root, -1, 0);
-        return (max_path == 1) ? -1 : max_path;
+        return solve(root, -1, 0) == 1 ? -1 : solve(root, -1, 0);
     }
 };
