@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0068-text-justification](https://github.com/A-bhi-del/DSA-problems/tree/master/0068-text-justification) |
 | [0516-longest-palindromic-subsequence](https://github.com/A-bhi-del/DSA-problems/tree/master/0516-longest-palindromic-subsequence) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/A-bhi-del/DSA-problems/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1044-longest-duplicate-substring](https://github.com/A-bhi-del/DSA-problems/tree/master/1044-longest-duplicate-substring) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/A-bhi-del/DSA-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/A-bhi-del/DSA-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/A-bhi-del/DSA-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0652-find-duplicate-subtrees](https://github.com/A-bhi-del/DSA-problems/tree/master/0652-find-duplicate-subtrees) |
 | [0684-redundant-connection](https://github.com/A-bhi-del/DSA-problems/tree/master/0684-redundant-connection) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/A-bhi-del/DSA-problems/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/A-bhi-del/DSA-problems/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/A-bhi-del/DSA-problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/A-bhi-del/DSA-problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -270,12 +272,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0652-find-duplicate-subtrees](https://github.com/A-bhi-del/DSA-problems/tree/master/0652-find-duplicate-subtrees) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/A-bhi-del/DSA-problems/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0998-maximum-binary-tree-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/0998-maximum-binary-tree-ii) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/A-bhi-del/DSA-problems/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 ## Binary Tree
 |  |
 | ------- |
 | [0652-find-duplicate-subtrees](https://github.com/A-bhi-del/DSA-problems/tree/master/0652-find-duplicate-subtrees) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/A-bhi-del/DSA-problems/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0998-maximum-binary-tree-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/0998-maximum-binary-tree-ii) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/A-bhi-del/DSA-problems/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 ## Sliding Window
@@ -303,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/A-bhi-del/DSA-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0988-smallest-string-starting-from-leaf](https://github.com/A-bhi-del/DSA-problems/tree/master/0988-smallest-string-starting-from-leaf) |
 <!---LeetCode Topics End-->
