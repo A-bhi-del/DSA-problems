@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/A-bhi-del/DSA-problems/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/A-bhi-del/DSA-problems/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/A-bhi-del/DSA-problems/tree/master/1075-project-employees-i) |
+| [1393-capital-gainloss](https://github.com/A-bhi-del/DSA-problems/tree/master/1393-capital-gainloss) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/A-bhi-del/DSA-problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/A-bhi-del/DSA-problems/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/A-bhi-del/DSA-problems/tree/master/1729-find-followers-count) |
