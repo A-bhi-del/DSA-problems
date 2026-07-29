@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/A-bhi-del/DSA-problems/tree/master/0175-combine-two-tables) |
 | [0595-big-countries](https://github.com/A-bhi-del/DSA-problems/tree/master/0595-big-countries) |
 | [1683-invalid-tweets](https://github.com/A-bhi-del/DSA-problems/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
