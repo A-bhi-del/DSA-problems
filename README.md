@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/A-bhi-del/DSA-problems/tree/master/0175-combine-two-tables) |
 | [0197-rising-temperature](https://github.com/A-bhi-del/DSA-problems/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/A-bhi-del/DSA-problems/tree/master/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/A-bhi-del/DSA-problems/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/A-bhi-del/DSA-problems/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/A-bhi-del/DSA-problems/tree/master/1075-project-employees-i) |
 | [1393-capital-gainloss](https://github.com/A-bhi-del/DSA-problems/tree/master/1393-capital-gainloss) |
