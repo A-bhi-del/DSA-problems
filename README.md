@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/A-bhi-del/DSA-problems/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/A-bhi-del/DSA-problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/A-bhi-del/DSA-problems/tree/master/1148-article-views-i) |
+| [1211-queries-quality-and-percentage](https://github.com/A-bhi-del/DSA-problems/tree/master/1211-queries-quality-and-percentage) |
 | [1393-capital-gainloss](https://github.com/A-bhi-del/DSA-problems/tree/master/1393-capital-gainloss) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/A-bhi-del/DSA-problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/A-bhi-del/DSA-problems/tree/master/1683-invalid-tweets) |
