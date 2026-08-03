@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/A-bhi-del/DSA-problems/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1301-number-of-paths-with-max-score](https://github.com/A-bhi-del/DSA-problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/A-bhi-del/DSA-problems/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/A-bhi-del/DSA-problems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/A-bhi-del/DSA-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/A-bhi-del/DSA-problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/A-bhi-del/DSA-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/A-bhi-del/DSA-problems/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/A-bhi-del/DSA-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/A-bhi-del/DSA-problems/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/A-bhi-del/DSA-problems/tree/master/1406-stone-game-iii) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/A-bhi-del/DSA-problems/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0754-reach-a-number](https://github.com/A-bhi-del/DSA-problems/tree/master/0754-reach-a-number) |
 | [1037-valid-boomerang](https://github.com/A-bhi-del/DSA-problems/tree/master/1037-valid-boomerang) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/A-bhi-del/DSA-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1406-stone-game-iii](https://github.com/A-bhi-del/DSA-problems/tree/master/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/A-bhi-del/DSA-problems/tree/master/1492-the-kth-factor-of-n) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/A-bhi-del/DSA-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/A-bhi-del/DSA-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -363,4 +366,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/A-bhi-del/DSA-problems/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/A-bhi-del/DSA-problems/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
