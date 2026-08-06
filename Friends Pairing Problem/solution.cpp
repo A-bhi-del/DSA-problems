@@ -4,15 +4,18 @@ class Solution {
         // code here
         vector<int>dp(n+1, 0);
         
-        dp[0] = 1;
-        dp[1] = 1;
-        dp[2] = 2;
+        int prev = 1;
+        int curr = 2;
         
         for(int i = 3; i <= n; i++){
-            dp[i] = dp[i-1] + (i - 1)*dp[i-2];
+            int next = curr + (i - 1)*prev;
+            prev = curr;
+            curr = next;
         }
         
-        return dp[n];
+        if(n == 1) return 1;
+        
+        return curr;
     }
 };
 
