@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/A-bhi-del/DSA-problems/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/A-bhi-del/DSA-problems/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3724-minimum-operations-to-transform-array](https://github.com/A-bhi-del/DSA-problems/tree/master/3724-minimum-operations-to-transform-array) |
 ## Sorting
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/A-bhi-del/DSA-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/A-bhi-del/DSA-problems/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/A-bhi-del/DSA-problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3664-two-letter-card-game](https://github.com/A-bhi-del/DSA-problems/tree/master/3664-two-letter-card-game) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/A-bhi-del/DSA-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/A-bhi-del/DSA-problems/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [3115-maximum-prime-difference](https://github.com/A-bhi-del/DSA-problems/tree/master/3115-maximum-prime-difference) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/A-bhi-del/DSA-problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1627-graph-connectivity-with-threshold](https://github.com/A-bhi-del/DSA-problems/tree/master/1627-graph-connectivity-with-threshold) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/A-bhi-del/DSA-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3115-maximum-prime-difference](https://github.com/A-bhi-del/DSA-problems/tree/master/3115-maximum-prime-difference) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/A-bhi-del/DSA-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0988-smallest-string-starting-from-leaf](https://github.com/A-bhi-del/DSA-problems/tree/master/0988-smallest-string-starting-from-leaf) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Combinatorics
 |  |
 | ------- |
