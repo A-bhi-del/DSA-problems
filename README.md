@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/A-bhi-del/DSA-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/A-bhi-del/DSA-problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/A-bhi-del/DSA-problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/A-bhi-del/DSA-problems/tree/master/1510-stone-game-iv) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/A-bhi-del/DSA-problems/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/A-bhi-del/DSA-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1406-stone-game-iii](https://github.com/A-bhi-del/DSA-problems/tree/master/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/A-bhi-del/DSA-problems/tree/master/1492-the-kth-factor-of-n) |
+| [1510-stone-game-iv](https://github.com/A-bhi-del/DSA-problems/tree/master/1510-stone-game-iv) |
 | [1627-graph-connectivity-with-threshold](https://github.com/A-bhi-del/DSA-problems/tree/master/1627-graph-connectivity-with-threshold) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/A-bhi-del/DSA-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/A-bhi-del/DSA-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -385,4 +387,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/A-bhi-del/DSA-problems/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/A-bhi-del/DSA-problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/A-bhi-del/DSA-problems/tree/master/1510-stone-game-iv) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/A-bhi-del/DSA-problems/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/A-bhi-del/DSA-problems/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/A-bhi-del/DSA-problems/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/A-bhi-del/DSA-problems/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
