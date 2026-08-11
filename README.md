@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/A-bhi-del/DSA-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0413-arithmetic-slices](https://github.com/A-bhi-del/DSA-problems/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/A-bhi-del/DSA-problems/tree/master/0486-predict-the-winner) |
+| [0560-subarray-sum-equals-k](https://github.com/A-bhi-del/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/A-bhi-del/DSA-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0870-advantage-shuffle](https://github.com/A-bhi-del/DSA-problems/tree/master/0870-advantage-shuffle) |
 | [0911-online-election](https://github.com/A-bhi-del/DSA-problems/tree/master/0911-online-election) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/A-bhi-del/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/A-bhi-del/DSA-problems/tree/master/0652-find-duplicate-subtrees) |
 | [0911-online-election](https://github.com/A-bhi-del/DSA-problems/tree/master/0911-online-election) |
 | [1001-grid-illumination](https://github.com/A-bhi-del/DSA-problems/tree/master/1001-grid-illumination) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/A-bhi-del/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/A-bhi-del/DSA-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
