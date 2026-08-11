@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/A-bhi-del/DSA-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0068-text-justification](https://github.com/A-bhi-del/DSA-problems/tree/master/0068-text-justification) |
 | [0283-move-zeroes](https://github.com/A-bhi-del/DSA-problems/tree/master/0283-move-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/A-bhi-del/DSA-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/A-bhi-del/DSA-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/A-bhi-del/DSA-problems/tree/master/0283-move-zeroes) |
 | [0870-advantage-shuffle](https://github.com/A-bhi-del/DSA-problems/tree/master/0870-advantage-shuffle) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
