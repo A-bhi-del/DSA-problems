@@ -14,17 +14,14 @@ class Solution {
             return {dp[i][j].first, dp[i][j].second};
         }
         
-        
-        if(grid[i][j] == 1){
-            pair<int,int>right = solve(i, j+1, grid, dp);
-            return dp[i][j] = {right.first , (right.second + grid[i][j]) % mod};
-        }else if(grid[i][j] == 2){
-            pair<int,int>down = solve(i+1, j, grid, dp);
-            return dp[i][j] = {down.first , (down.second + grid[i][j]) % mod};
-        }
-        
         pair<int,int>right = solve(i, j+1, grid, dp);
         pair<int,int>down = solve(i+1, j, grid, dp);
+        
+        if(grid[i][j] == 1){
+            return dp[i][j] = {right.first , (right.second + grid[i][j]) % mod};
+        }else if(grid[i][j] == 2){
+            return dp[i][j] = {down.first , (down.second + grid[i][j]) % mod};
+        }
         
         int best = -1;
 
