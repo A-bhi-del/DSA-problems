@@ -1,18 +1,18 @@
-# Second Largest
+# 🚀 Second Largest
 
-## Problem Link
+---
 
-https://www.geeksforgeeks.org/problems/second-largest3735/1?page=1&category=Arrays&sortBy=submissions
+### 📊 Quick Overview
 
-## Language
+| Metadata | Details |
+| :--- | :--- |
+| **Difficulty** | 🟢 ![Easy](https://img.shields.io/badge/Easy-success?style=for-the-badge&logoColor=white) |
+| **Language** | `C++ (17)` |
+| **Problem Link** | [🔗 Challenge Link](https://www.geeksforgeeks.org/problems/second-largest3735/1) |
 
-Python3
+---
 
-## Difficulty
-
-🟢 Easy
-
-## Problem Statement
+### 📝 Problem Statement
 
 Given an array of positive integers arr[], return the second largest element from the array. If the second largest element doesn't exist then return -1.
 Note: The second largest element should not be equal to the largest element.
@@ -60,6 +60,17 @@ Examples:
 
 ---
 
-## Solution
+### 🏢 Topic Tags
 
-See `solution.py`
+> `Arrays` `Searching`
+
+---
+
+### 💡 Solution Approach
+
+The complete execution code can be found in the solution file. It uses an optimized approach to solve the problem efficiently.
+
+👉 **View Solution:** [`solution.cpp`](./solution.cpp)
+
+---
+<sub>*Automated repository update.*</sub>
