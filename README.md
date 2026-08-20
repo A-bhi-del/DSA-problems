@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/A-bhi-del/DSA-problems/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/A-bhi-del/DSA-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/A-bhi-del/DSA-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/A-bhi-del/DSA-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3115-maximum-prime-difference](https://github.com/A-bhi-del/DSA-problems/tree/master/3115-maximum-prime-difference) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/A-bhi-del/DSA-problems/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/A-bhi-del/DSA-problems/tree/master/1260-shift-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/A-bhi-del/DSA-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2293-min-max-game](https://github.com/A-bhi-del/DSA-problems/tree/master/2293-min-max-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/A-bhi-del/DSA-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/A-bhi-del/DSA-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
