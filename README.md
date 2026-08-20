@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/A-bhi-del/DSA-problems/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/A-bhi-del/DSA-problems/tree/master/1757-recyclable-and-low-fat-products) |
 | [1795-rearrange-products-table](https://github.com/A-bhi-del/DSA-problems/tree/master/1795-rearrange-products-table) |
+| [1890-the-latest-login-in-2020](https://github.com/A-bhi-del/DSA-problems/tree/master/1890-the-latest-login-in-2020) |
 | [1907-count-salary-categories](https://github.com/A-bhi-del/DSA-problems/tree/master/1907-count-salary-categories) |
 ## Game Theory
 |  |
