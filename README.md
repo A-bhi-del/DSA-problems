@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-the-latest-login-in-2020](https://github.com/A-bhi-del/DSA-problems/tree/master/1890-the-latest-login-in-2020) |
 | [1907-count-salary-categories](https://github.com/A-bhi-del/DSA-problems/tree/master/1907-count-salary-categories) |
 | [3220-odd-and-even-transactions](https://github.com/A-bhi-del/DSA-problems/tree/master/3220-odd-and-even-transactions) |
+| [3570-find-books-with-no-available-copies](https://github.com/A-bhi-del/DSA-problems/tree/master/3570-find-books-with-no-available-copies) |
 ## Game Theory
 |  |
 | ------- |
