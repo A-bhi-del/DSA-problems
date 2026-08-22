@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-longest-duplicate-substring](https://github.com/A-bhi-del/DSA-problems/tree/master/1044-longest-duplicate-substring) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/A-bhi-del/DSA-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/A-bhi-del/DSA-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/A-bhi-del/DSA-problems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/A-bhi-del/DSA-problems/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/A-bhi-del/DSA-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/A-bhi-del/DSA-problems/tree/master/0684-redundant-connection) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/A-bhi-del/DSA-problems/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/A-bhi-del/DSA-problems/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/A-bhi-del/DSA-problems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/A-bhi-del/DSA-problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/A-bhi-del/DSA-problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/A-bhi-del/DSA-problems/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0998-maximum-binary-tree-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/0998-maximum-binary-tree-ii) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/A-bhi-del/DSA-problems/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/A-bhi-del/DSA-problems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
 | ------- |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/A-bhi-del/DSA-problems/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0998-maximum-binary-tree-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/0998-maximum-binary-tree-ii) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/A-bhi-del/DSA-problems/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/A-bhi-del/DSA-problems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Sliding Window
 |  |
 | ------- |
@@ -476,4 +480,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1201-ugly-number-iii](https://github.com/A-bhi-del/DSA-problems/tree/master/1201-ugly-number-iii) |
+## Binary Lifting
+|  |
+| ------- |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/A-bhi-del/DSA-problems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/A-bhi-del/DSA-problems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->
