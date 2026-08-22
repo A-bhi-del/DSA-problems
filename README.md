@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1907-count-salary-categories](https://github.com/A-bhi-del/DSA-problems/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/A-bhi-del/DSA-problems/tree/master/1934-confirmation-rate) |
 | [3220-odd-and-even-transactions](https://github.com/A-bhi-del/DSA-problems/tree/master/3220-odd-and-even-transactions) |
+| [3436-find-valid-emails](https://github.com/A-bhi-del/DSA-problems/tree/master/3436-find-valid-emails) |
 | [3570-find-books-with-no-available-copies](https://github.com/A-bhi-del/DSA-problems/tree/master/3570-find-books-with-no-available-copies) |
 ## Game Theory
 |  |
