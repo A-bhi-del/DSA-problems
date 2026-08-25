@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3664-two-letter-card-game](https://github.com/A-bhi-del/DSA-problems/tree/master/3664-two-letter-card-game) |
 | [3665-twisted-mirror-path-count](https://github.com/A-bhi-del/DSA-problems/tree/master/3665-twisted-mirror-path-count) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/A-bhi-del/DSA-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3724-minimum-operations-to-transform-array](https://github.com/A-bhi-del/DSA-problems/tree/master/3724-minimum-operations-to-transform-array) |
 | [3731-find-missing-elements](https://github.com/A-bhi-del/DSA-problems/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/A-bhi-del/DSA-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3664-two-letter-card-game](https://github.com/A-bhi-del/DSA-problems/tree/master/3664-two-letter-card-game) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/A-bhi-del/DSA-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/A-bhi-del/DSA-problems/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3934-smallest-unique-subarray](https://github.com/A-bhi-del/DSA-problems/tree/master/3934-smallest-unique-subarray) |
