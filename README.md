@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3664-two-letter-card-game](https://github.com/A-bhi-del/DSA-problems/tree/master/3664-two-letter-card-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/A-bhi-del/DSA-problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/A-bhi-del/DSA-problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3664-two-letter-card-game](https://github.com/A-bhi-del/DSA-problems/tree/master/3664-two-letter-card-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/A-bhi-del/DSA-problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/A-bhi-del/DSA-problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Depth-First Search
 |  |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/A-bhi-del/DSA-problems/tree/master/0283-move-zeroes) |
 | [0870-advantage-shuffle](https://github.com/A-bhi-del/DSA-problems/tree/master/0870-advantage-shuffle) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/A-bhi-del/DSA-problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/A-bhi-del/DSA-problems/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/A-bhi-del/DSA-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
