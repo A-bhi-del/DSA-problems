@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/A-bhi-del/DSA-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2293-min-max-game](https://github.com/A-bhi-del/DSA-problems/tree/master/2293-min-max-game) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/A-bhi-del/DSA-problems/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/A-bhi-del/DSA-problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/A-bhi-del/DSA-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/A-bhi-del/DSA-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/A-bhi-del/DSA-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/A-bhi-del/DSA-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/A-bhi-del/DSA-problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/A-bhi-del/DSA-problems/tree/master/2165-smallest-value-of-the-rearranged-number) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/A-bhi-del/DSA-problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/A-bhi-del/DSA-problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1627-graph-connectivity-with-threshold](https://github.com/A-bhi-del/DSA-problems/tree/master/1627-graph-connectivity-with-threshold) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/A-bhi-del/DSA-problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/A-bhi-del/DSA-problems/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/A-bhi-del/DSA-problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/A-bhi-del/DSA-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming
 |  |
