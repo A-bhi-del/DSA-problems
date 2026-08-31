@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1669-merge-in-between-linked-lists](https://github.com/A-bhi-del/DSA-problems/tree/master/1669-merge-in-between-linked-lists) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/A-bhi-del/DSA-problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Two Pointers
 |  |
 | ------- |
