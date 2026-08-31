@@ -11,11 +11,12 @@
 class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
-        // if(!head->next || !head->next->next){
-        //     return {-1,-1};
-        // }
-        vector<int>ans;
-        ListNode* temp = head;
+        ListNode* temp = head; 
+        int p = -1;
+        int c = -1;  
+        int mini = INT_MAX;     
+        int f = INT_MAX;
+        int la = -1;
         int l = 1;
 
         while(temp->next != NULL && temp->next->next != NULL){
@@ -24,23 +25,23 @@ public:
             int aft = temp->next->next->val;
 
             if((prev < mid && aft < mid) || (prev > mid && aft > mid)){
-                ans.push_back(l+1);
+                p = c;
+                c = l + 1;
+                f = min(f, l+1);
+                la = max(la, l+1);
+                if(p != -1 && c != -1){
+                    mini = min(mini, c - p);
+                }
             }
 
             temp = temp->next;
             l++;
         }
 
-        if(ans.size() < 2){
+        if(p == -1 || c == -1){
             return {-1,-1};
         }
 
-        int mini = INT_MAX;
-
-        for(int i = 1; i < ans.size(); i++){
-            mini = min(mini, ans[i] - ans[i-1]);
-        }
-
-        return {mini, ans[ans.size()-1] - ans[0]};
+        return {mini, la-f};
     }
 };
