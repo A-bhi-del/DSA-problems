@@ -1,23 +1,17 @@
 class Solution {
   public:
     int mod = 1e9+7;
-    vector<int>fact;
+
     int compute(int colors, int parts){
         long long ans = 1;
-
         for(int i = 0; i < parts; i++){
             ans = ans * (colors - i) % mod;
         }
-
         return ans;
     }
     
     int palindromicStrings(int n, int k) {
         // code here
-        fact.resize(28, 1);
-        for(int i = 2; i <= 26; i++){
-            fact[i] = (fact[i-1] % mod * i % mod) % mod;
-        }
         
         vector<vector<int>>dp(k+1, vector<int>(n+1, 0));
         
@@ -34,13 +28,6 @@ class Solution {
                 }
             }
         }
-        
-        // for(int i = 1; i <= k; i++){
-        //     for(int j = 1; j <= n; j++){
-        //         cout<<dp[i][j]<<" ";
-        //     }
-        //     cout<<endl;
-        // }
         
         return dp[k][n];
     }
