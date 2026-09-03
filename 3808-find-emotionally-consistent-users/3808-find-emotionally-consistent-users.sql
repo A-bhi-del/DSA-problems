@@ -24,11 +24,6 @@ WITH copy AS (
 SELECT c1.user_id, c1.reaction AS dominant_reaction, ROUND(c1.reaction_count / total_reaction, 2) AS reaction_ratio
 FROM copy2 c1
 WHERE c1.rn = 1 
-AND c1.user_id IN (
-    SELECT c2.user_id
-    FROM copy c2
-    GROUP BY c2.user_id
-    HAVING ROUND(MAX(c2.reaction_count) / SUM(c2.reaction_count), 2) >= 0.6
-)
 GROUP BY c1.user_id
+HAVING reaction_ratio >= 0.6
 ORDER BY reaction_ratio DESC, c1.user_id
