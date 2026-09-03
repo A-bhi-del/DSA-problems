@@ -13,7 +13,7 @@ class Solution {
         int take = 0;
         
         if(idx == 1){
-            take = max({take, abs(nums[idx] - nums[idx-1]) + solve(idx+1, nums, 0), abs(nums[idx] - 1) + solve(idx+1, nums, 0), abs(nums[idx-1] - 1) + solve(idx+1, nums, 1)});
+            take = max({take, abs(nums[idx] - nums[idx-1]) + solve(idx+1, nums, 0), abs(nums[idx] - 1) + solve(idx+1, nums, 0), abs(nums[idx-1] - 1) + solve(idx+1, nums, 1), solve(idx+1, nums, 1)});
         }else if(flip == 0){
             take = max({take, abs(nums[idx] - nums[idx-1]) + solve(idx + 1, nums, flip), abs(nums[idx-1] - 1) + solve(idx+1, nums, !flip)});
         }else{
