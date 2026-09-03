@@ -4,18 +4,31 @@ class Solution {
         // code here
         int n = arr.size();
         
-        for(int i = 0; i < n; i++){
-            arr.push_back(arr[i]);
-        }
         
-        for(int i = 1; i < arr.size(); i++){
+        int maxi = arr[0];
+        for(int i = 1; i < n; i++){
+            maxi = max(maxi, arr[i]);
             arr[i] = arr[i] + arr[i-1];
         }
         
-        int ans = INT_MIN;
-        int nn = arr.size();
+        if(m == 1){
+            return maxi;
+        }
+        if(n <= m){
+            return arr[n-1];
+        }
         
-        for(int i = min(m-1, nn-1); i < nn; i++){
+        int ans = INT_MIN;
+        
+        for(int i = m-2; i >= 0; i--){
+            int sum = arr[i];
+            int rem_idx = n - (m - (i + 1));
+            int rem_sum = arr[n-1] - arr[rem_idx-1];
+            // cout<<sum+rem_sum<<endl;
+            ans = max(ans, sum + rem_sum);
+        }
+
+        for(int i = min(m-1, n-1); i < n; i++){
             int val = arr[i];
             if(i-m >= 0){
                 val -= arr[i-m];
