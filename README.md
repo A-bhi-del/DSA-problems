@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/A-bhi-del/DSA-problems/tree/master/0068-text-justification) |
+| [0087-scramble-string](https://github.com/A-bhi-del/DSA-problems/tree/master/0087-scramble-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/A-bhi-del/DSA-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/A-bhi-del/DSA-problems/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1044-longest-duplicate-substring](https://github.com/A-bhi-del/DSA-problems/tree/master/1044-longest-duplicate-substring) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0087-scramble-string](https://github.com/A-bhi-del/DSA-problems/tree/master/0087-scramble-string) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/A-bhi-del/DSA-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0413-arithmetic-slices](https://github.com/A-bhi-del/DSA-problems/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/A-bhi-del/DSA-problems/tree/master/0486-predict-the-winner) |
