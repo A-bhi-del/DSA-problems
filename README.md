@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/A-bhi-del/DSA-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2258-escape-the-spreading-fire](https://github.com/A-bhi-del/DSA-problems/tree/master/2258-escape-the-spreading-fire) |
 | [2293-min-max-game](https://github.com/A-bhi-del/DSA-problems/tree/master/2293-min-max-game) |
+| [2321-maximum-score-of-spliced-array](https://github.com/A-bhi-del/DSA-problems/tree/master/2321-maximum-score-of-spliced-array) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/A-bhi-del/DSA-problems/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/A-bhi-del/DSA-problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/A-bhi-del/DSA-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/A-bhi-del/DSA-problems/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/A-bhi-del/DSA-problems/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/A-bhi-del/DSA-problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2321-maximum-score-of-spliced-array](https://github.com/A-bhi-del/DSA-problems/tree/master/2321-maximum-score-of-spliced-array) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/A-bhi-del/DSA-problems/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
