@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/A-bhi-del/DSA-problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/A-bhi-del/DSA-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0754-reach-a-number](https://github.com/A-bhi-del/DSA-problems/tree/master/0754-reach-a-number) |
+| [0836-rectangle-overlap](https://github.com/A-bhi-del/DSA-problems/tree/master/0836-rectangle-overlap) |
 | [1037-valid-boomerang](https://github.com/A-bhi-del/DSA-problems/tree/master/1037-valid-boomerang) |
 | [1201-ugly-number-iii](https://github.com/A-bhi-del/DSA-problems/tree/master/1201-ugly-number-iii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/A-bhi-del/DSA-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/A-bhi-del/DSA-problems/tree/master/0836-rectangle-overlap) |
 | [1037-valid-boomerang](https://github.com/A-bhi-del/DSA-problems/tree/master/1037-valid-boomerang) |
 ## Linked List
 |  |
