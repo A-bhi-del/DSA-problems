@@ -23,8 +23,8 @@ class Solution {
         
         queue<Node*>q;
         q.push(root);
-        vector<int>leafs_cost;
         int level = 1;
+        int ans = 0;
         
         while(!q.empty()){
             int size = q.size();
@@ -42,22 +42,14 @@ class Solution {
                 }
                 
                 if(!temp->right && !temp->left){
-                    leafs_cost.push_back(level);
+                    if(level <= k){
+                        k -= level;
+                        ans++;
+                    }
                 }
             }
             
             level++;
-        }
-        
-        int ans = 0;
-        
-        for(int i = 0; i < leafs_cost.size(); i++){
-            if(leafs_cost[i] <= k){
-                ans++;
-                k = k - leafs_cost[i];
-            }else{
-                break;
-            }
         }
         
         return ans;
