@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/A-bhi-del/DSA-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0068-text-justification](https://github.com/A-bhi-del/DSA-problems/tree/master/0068-text-justification) |
 | [0087-scramble-string](https://github.com/A-bhi-del/DSA-problems/tree/master/0087-scramble-string) |
+| [0171-excel-sheet-column-number](https://github.com/A-bhi-del/DSA-problems/tree/master/0171-excel-sheet-column-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/A-bhi-del/DSA-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/0940-distinct-subsequences-ii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/A-bhi-del/DSA-problems/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/A-bhi-del/DSA-problems/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/A-bhi-del/DSA-problems/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/A-bhi-del/DSA-problems/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/A-bhi-del/DSA-problems/tree/master/0258-add-digits) |
