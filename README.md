@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/A-bhi-del/DSA-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/A-bhi-del/DSA-problems/tree/master/0041-first-missing-positive) |
+| [0202-happy-number](https://github.com/A-bhi-del/DSA-problems/tree/master/0202-happy-number) |
 | [0391-perfect-rectangle](https://github.com/A-bhi-del/DSA-problems/tree/master/0391-perfect-rectangle) |
 | [0560-subarray-sum-equals-k](https://github.com/A-bhi-del/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/A-bhi-del/DSA-problems/tree/master/0652-find-duplicate-subtrees) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/A-bhi-del/DSA-problems/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/A-bhi-del/DSA-problems/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/A-bhi-del/DSA-problems/tree/master/0258-add-digits) |
 | [0391-perfect-rectangle](https://github.com/A-bhi-del/DSA-problems/tree/master/0391-perfect-rectangle) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/A-bhi-del/DSA-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0202-happy-number](https://github.com/A-bhi-del/DSA-problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/A-bhi-del/DSA-problems/tree/master/0283-move-zeroes) |
 | [0870-advantage-shuffle](https://github.com/A-bhi-del/DSA-problems/tree/master/0870-advantage-shuffle) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/A-bhi-del/DSA-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -599,4 +602,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/A-bhi-del/DSA-problems/tree/master/0391-perfect-rectangle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/A-bhi-del/DSA-problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
