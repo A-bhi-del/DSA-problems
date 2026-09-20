@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/A-bhi-del/DSA-problems/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/A-bhi-del/DSA-problems/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
+| [3840-house-robber-v](https://github.com/A-bhi-del/DSA-problems/tree/master/3840-house-robber-v) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/A-bhi-del/DSA-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3934-smallest-unique-subarray](https://github.com/A-bhi-del/DSA-problems/tree/master/3934-smallest-unique-subarray) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/A-bhi-del/DSA-problems/tree/master/3665-twisted-mirror-path-count) |
+| [3840-house-robber-v](https://github.com/A-bhi-del/DSA-problems/tree/master/3840-house-robber-v) |
 ## Topological Sort
 |  |
 | ------- |
