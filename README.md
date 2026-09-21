@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/A-bhi-del/DSA-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/A-bhi-del/DSA-problems/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/A-bhi-del/DSA-problems/tree/master/3524-find-x-value-of-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/A-bhi-del/DSA-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2321-maximum-score-of-spliced-array](https://github.com/A-bhi-del/DSA-problems/tree/master/2321-maximum-score-of-spliced-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/A-bhi-del/DSA-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/A-bhi-del/DSA-problems/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
+| [3524-find-x-value-of-array-i](https://github.com/A-bhi-del/DSA-problems/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/A-bhi-del/DSA-problems/tree/master/3665-twisted-mirror-path-count) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/A-bhi-del/DSA-problems/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/A-bhi-del/DSA-problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/A-bhi-del/DSA-problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/A-bhi-del/DSA-problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
