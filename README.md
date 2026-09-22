@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3665-twisted-mirror-path-count](https://github.com/A-bhi-del/DSA-problems/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/A-bhi-del/DSA-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3724-minimum-operations-to-transform-array](https://github.com/A-bhi-del/DSA-problems/tree/master/3724-minimum-operations-to-transform-array) |
+| [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/A-bhi-del/DSA-problems/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3731-find-missing-elements](https://github.com/A-bhi-del/DSA-problems/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/A-bhi-del/DSA-problems/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3664-two-letter-card-game](https://github.com/A-bhi-del/DSA-problems/tree/master/3664-two-letter-card-game) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/A-bhi-del/DSA-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/A-bhi-del/DSA-problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/A-bhi-del/DSA-problems/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3731-find-missing-elements](https://github.com/A-bhi-del/DSA-problems/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3934-smallest-unique-subarray](https://github.com/A-bhi-del/DSA-problems/tree/master/3934-smallest-unique-subarray) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/A-bhi-del/DSA-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/A-bhi-del/DSA-problems/tree/master/1872-stone-game-viii) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/A-bhi-del/DSA-problems/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
+| [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/A-bhi-del/DSA-problems/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Graph Theory
