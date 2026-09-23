@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1627-graph-connectivity-with-threshold](https://github.com/A-bhi-del/DSA-problems/tree/master/1627-graph-connectivity-with-threshold) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/A-bhi-del/DSA-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/A-bhi-del/DSA-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1834-single-threaded-cpu](https://github.com/A-bhi-del/DSA-problems/tree/master/1834-single-threaded-cpu) |
 | [1872-stone-game-viii](https://github.com/A-bhi-del/DSA-problems/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/A-bhi-del/DSA-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/A-bhi-del/DSA-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/A-bhi-del/DSA-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/A-bhi-del/DSA-problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/A-bhi-del/DSA-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1834-single-threaded-cpu](https://github.com/A-bhi-del/DSA-problems/tree/master/1834-single-threaded-cpu) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/A-bhi-del/DSA-problems/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/A-bhi-del/DSA-problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/A-bhi-del/DSA-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1834-single-threaded-cpu](https://github.com/A-bhi-del/DSA-problems/tree/master/1834-single-threaded-cpu) |
 ## Backtracking
 |  |
 | ------- |
