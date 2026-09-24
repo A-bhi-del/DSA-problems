@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3664-two-letter-card-game](https://github.com/A-bhi-del/DSA-problems/tree/master/3664-two-letter-card-game) |
 | [3665-twisted-mirror-path-count](https://github.com/A-bhi-del/DSA-problems/tree/master/3665-twisted-mirror-path-count) |
+| [3676-count-bowl-subarrays](https://github.com/A-bhi-del/DSA-problems/tree/master/3676-count-bowl-subarrays) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/A-bhi-del/DSA-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3724-minimum-operations-to-transform-array](https://github.com/A-bhi-del/DSA-problems/tree/master/3724-minimum-operations-to-transform-array) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/A-bhi-del/DSA-problems/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/A-bhi-del/DSA-problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0769-max-chunks-to-make-sorted](https://github.com/A-bhi-del/DSA-problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/A-bhi-del/DSA-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [3676-count-bowl-subarrays](https://github.com/A-bhi-del/DSA-problems/tree/master/3676-count-bowl-subarrays) |
 | [3834-merge-adjacent-equal-elements](https://github.com/A-bhi-del/DSA-problems/tree/master/3834-merge-adjacent-equal-elements) |
 ## Binary Search
 |  |
@@ -660,4 +662,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/A-bhi-del/DSA-problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0769-max-chunks-to-make-sorted](https://github.com/A-bhi-del/DSA-problems/tree/master/0769-max-chunks-to-make-sorted) |
+| [3676-count-bowl-subarrays](https://github.com/A-bhi-del/DSA-problems/tree/master/3676-count-bowl-subarrays) |
 <!---LeetCode Topics End-->
