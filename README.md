@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/A-bhi-del/DSA-problems/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/A-bhi-del/DSA-problems/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
+| [3834-merge-adjacent-equal-elements](https://github.com/A-bhi-del/DSA-problems/tree/master/3834-merge-adjacent-equal-elements) |
 | [3840-house-robber-v](https://github.com/A-bhi-del/DSA-problems/tree/master/3840-house-robber-v) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/A-bhi-del/DSA-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/A-bhi-del/DSA-problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0769-max-chunks-to-make-sorted](https://github.com/A-bhi-del/DSA-problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/A-bhi-del/DSA-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [3834-merge-adjacent-equal-elements](https://github.com/A-bhi-del/DSA-problems/tree/master/3834-merge-adjacent-equal-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-min-max-game](https://github.com/A-bhi-del/DSA-problems/tree/master/2293-min-max-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/A-bhi-del/DSA-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+| [3834-merge-adjacent-equal-elements](https://github.com/A-bhi-del/DSA-problems/tree/master/3834-merge-adjacent-equal-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/A-bhi-del/DSA-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
