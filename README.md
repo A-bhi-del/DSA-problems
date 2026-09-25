@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/A-bhi-del/DSA-problems/tree/master/0652-find-duplicate-subtrees) |
 | [0911-online-election](https://github.com/A-bhi-del/DSA-problems/tree/master/0911-online-election) |
 | [1001-grid-illumination](https://github.com/A-bhi-del/DSA-problems/tree/master/1001-grid-illumination) |
+| [1096-brace-expansion-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/A-bhi-del/DSA-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/A-bhi-del/DSA-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/A-bhi-del/DSA-problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/A-bhi-del/DSA-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0769-max-chunks-to-make-sorted](https://github.com/A-bhi-del/DSA-problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0870-advantage-shuffle](https://github.com/A-bhi-del/DSA-problems/tree/master/0870-advantage-shuffle) |
+| [1096-brace-expansion-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/A-bhi-del/DSA-problems/tree/master/1288-remove-covered-intervals) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/A-bhi-del/DSA-problems/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1331-rank-transform-of-an-array](https://github.com/A-bhi-del/DSA-problems/tree/master/1331-rank-transform-of-an-array) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/0940-distinct-subsequences-ii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/A-bhi-del/DSA-problems/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1044-longest-duplicate-substring](https://github.com/A-bhi-del/DSA-problems/tree/master/1044-longest-duplicate-substring) |
+| [1096-brace-expansion-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/A-bhi-del/DSA-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/A-bhi-del/DSA-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/A-bhi-del/DSA-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/A-bhi-del/DSA-problems/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/A-bhi-del/DSA-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/A-bhi-del/DSA-problems/tree/master/0684-redundant-connection) |
+| [1096-brace-expansion-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/1096-brace-expansion-ii) |
 | [2258-escape-the-spreading-fire](https://github.com/A-bhi-del/DSA-problems/tree/master/2258-escape-the-spreading-fire) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/A-bhi-del/DSA-problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/A-bhi-del/DSA-problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/A-bhi-del/DSA-problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0769-max-chunks-to-make-sorted](https://github.com/A-bhi-del/DSA-problems/tree/master/0769-max-chunks-to-make-sorted) |
+| [1096-brace-expansion-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/A-bhi-del/DSA-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3676-count-bowl-subarrays](https://github.com/A-bhi-del/DSA-problems/tree/master/3676-count-bowl-subarrays) |
 | [3834-merge-adjacent-equal-elements](https://github.com/A-bhi-del/DSA-problems/tree/master/3834-merge-adjacent-equal-elements) |
@@ -521,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/A-bhi-del/DSA-problems/tree/master/0257-binary-tree-paths) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/A-bhi-del/DSA-problems/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1096-brace-expansion-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Combinatorics
 |  |
