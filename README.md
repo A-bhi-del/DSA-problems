@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/A-bhi-del/DSA-problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/A-bhi-del/DSA-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0769-max-chunks-to-make-sorted](https://github.com/A-bhi-del/DSA-problems/tree/master/0769-max-chunks-to-make-sorted) |
+| [0815-bus-routes](https://github.com/A-bhi-del/DSA-problems/tree/master/0815-bus-routes) |
 | [0835-image-overlap](https://github.com/A-bhi-del/DSA-problems/tree/master/0835-image-overlap) |
 | [0870-advantage-shuffle](https://github.com/A-bhi-del/DSA-problems/tree/master/0870-advantage-shuffle) |
 | [0911-online-election](https://github.com/A-bhi-del/DSA-problems/tree/master/0911-online-election) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/A-bhi-del/DSA-problems/tree/master/0391-perfect-rectangle) |
 | [0560-subarray-sum-equals-k](https://github.com/A-bhi-del/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/A-bhi-del/DSA-problems/tree/master/0652-find-duplicate-subtrees) |
+| [0815-bus-routes](https://github.com/A-bhi-del/DSA-problems/tree/master/0815-bus-routes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/A-bhi-del/DSA-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0911-online-election](https://github.com/A-bhi-del/DSA-problems/tree/master/0911-online-election) |
 | [1001-grid-illumination](https://github.com/A-bhi-del/DSA-problems/tree/master/1001-grid-illumination) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/A-bhi-del/DSA-problems/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/A-bhi-del/DSA-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/A-bhi-del/DSA-problems/tree/master/0684-redundant-connection) |
+| [0815-bus-routes](https://github.com/A-bhi-del/DSA-problems/tree/master/0815-bus-routes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/A-bhi-del/DSA-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/1096-brace-expansion-ii) |
 | [2258-escape-the-spreading-fire](https://github.com/A-bhi-del/DSA-problems/tree/master/2258-escape-the-spreading-fire) |
