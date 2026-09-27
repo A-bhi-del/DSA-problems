@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/A-bhi-del/DSA-problems/tree/master/0941-valid-mountain-array) |
 | [1001-grid-illumination](https://github.com/A-bhi-del/DSA-problems/tree/master/1001-grid-illumination) |
 | [1037-valid-boomerang](https://github.com/A-bhi-del/DSA-problems/tree/master/1037-valid-boomerang) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/A-bhi-del/DSA-problems/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/A-bhi-del/DSA-problems/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/A-bhi-del/DSA-problems/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/A-bhi-del/DSA-problems/tree/master/1288-remove-covered-intervals) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/A-bhi-del/DSA-problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0870-advantage-shuffle](https://github.com/A-bhi-del/DSA-problems/tree/master/0870-advantage-shuffle) |
 | [1096-brace-expansion-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/1096-brace-expansion-ii) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/A-bhi-del/DSA-problems/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/A-bhi-del/DSA-problems/tree/master/1288-remove-covered-intervals) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/A-bhi-del/DSA-problems/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1331-rank-transform-of-an-array](https://github.com/A-bhi-del/DSA-problems/tree/master/1331-rank-transform-of-an-array) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/A-bhi-del/DSA-problems/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/A-bhi-del/DSA-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/0940-distinct-subsequences-ii) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/A-bhi-del/DSA-problems/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1301-number-of-paths-with-max-score](https://github.com/A-bhi-del/DSA-problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/A-bhi-del/DSA-problems/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/A-bhi-del/DSA-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0911-online-election](https://github.com/A-bhi-del/DSA-problems/tree/master/0911-online-election) |
 | [1044-longest-duplicate-substring](https://github.com/A-bhi-del/DSA-problems/tree/master/1044-longest-duplicate-substring) |
 | [1201-ugly-number-iii](https://github.com/A-bhi-del/DSA-problems/tree/master/1201-ugly-number-iii) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/A-bhi-del/DSA-problems/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/A-bhi-del/DSA-problems/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/A-bhi-del/DSA-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/A-bhi-del/DSA-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
