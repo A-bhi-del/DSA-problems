@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/A-bhi-del/DSA-problems/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/A-bhi-del/DSA-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/A-bhi-del/DSA-problems/tree/master/1510-stone-game-iv) |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/A-bhi-del/DSA-problems/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/A-bhi-del/DSA-problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1872-stone-game-viii](https://github.com/A-bhi-del/DSA-problems/tree/master/1872-stone-game-viii) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/A-bhi-del/DSA-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/A-bhi-del/DSA-problems/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 ## Matrix
 |  |
 | ------- |
