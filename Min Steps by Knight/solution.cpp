@@ -22,14 +22,8 @@ class Solution {
             min_heap.pop();
             
             if(i == targetPos[0] - 1 && j == targetPos[1] - 1){
-                ans = min(ans, m);
+                return m;
             }
-            
-            // if(dp[i][j] < m){
-            //     continue;
-            // }
-            
-            // dp[i][j] = m;
             
             for(int k = 0; k < 8; k++){
                 int ni = i + op_r[k];
