@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/A-bhi-del/DSA-problems/tree/master/1037-valid-boomerang) |
 | [1187-make-array-strictly-increasing](https://github.com/A-bhi-del/DSA-problems/tree/master/1187-make-array-strictly-increasing) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/A-bhi-del/DSA-problems/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1250-check-if-it-is-a-good-array](https://github.com/A-bhi-del/DSA-problems/tree/master/1250-check-if-it-is-a-good-array) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/A-bhi-del/DSA-problems/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/A-bhi-del/DSA-problems/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/A-bhi-del/DSA-problems/tree/master/1288-remove-covered-intervals) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/A-bhi-del/DSA-problems/tree/master/0836-rectangle-overlap) |
 | [1037-valid-boomerang](https://github.com/A-bhi-del/DSA-problems/tree/master/1037-valid-boomerang) |
 | [1201-ugly-number-iii](https://github.com/A-bhi-del/DSA-problems/tree/master/1201-ugly-number-iii) |
+| [1250-check-if-it-is-a-good-array](https://github.com/A-bhi-del/DSA-problems/tree/master/1250-check-if-it-is-a-good-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/A-bhi-del/DSA-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/A-bhi-del/DSA-problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/A-bhi-del/DSA-problems/tree/master/1406-stone-game-iii) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/A-bhi-del/DSA-problems/tree/master/0258-add-digits) |
 | [1201-ugly-number-iii](https://github.com/A-bhi-del/DSA-problems/tree/master/1201-ugly-number-iii) |
+| [1250-check-if-it-is-a-good-array](https://github.com/A-bhi-del/DSA-problems/tree/master/1250-check-if-it-is-a-good-array) |
 | [1492-the-kth-factor-of-n](https://github.com/A-bhi-del/DSA-problems/tree/master/1492-the-kth-factor-of-n) |
 | [1627-graph-connectivity-with-threshold](https://github.com/A-bhi-del/DSA-problems/tree/master/1627-graph-connectivity-with-threshold) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/A-bhi-del/DSA-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -675,10 +678,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1201-ugly-number-iii](https://github.com/A-bhi-del/DSA-problems/tree/master/1201-ugly-number-iii) |
+| [1250-check-if-it-is-a-good-array](https://github.com/A-bhi-del/DSA-problems/tree/master/1250-check-if-it-is-a-good-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1201-ugly-number-iii](https://github.com/A-bhi-del/DSA-problems/tree/master/1201-ugly-number-iii) |
+| [1250-check-if-it-is-a-good-array](https://github.com/A-bhi-del/DSA-problems/tree/master/1250-check-if-it-is-a-good-array) |
 ## Inclusion-Exclusion Principle
 |  |
 | ------- |
@@ -717,4 +722,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1187-make-array-strictly-increasing](https://github.com/A-bhi-del/DSA-problems/tree/master/1187-make-array-strictly-increasing) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/A-bhi-del/DSA-problems/tree/master/1250-check-if-it-is-a-good-array) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/A-bhi-del/DSA-problems/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
