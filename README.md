@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/A-bhi-del/DSA-problems/tree/master/0941-valid-mountain-array) |
 | [1001-grid-illumination](https://github.com/A-bhi-del/DSA-problems/tree/master/1001-grid-illumination) |
 | [1037-valid-boomerang](https://github.com/A-bhi-del/DSA-problems/tree/master/1037-valid-boomerang) |
+| [1053-previous-permutation-with-one-swap](https://github.com/A-bhi-del/DSA-problems/tree/master/1053-previous-permutation-with-one-swap) |
 | [1187-make-array-strictly-increasing](https://github.com/A-bhi-del/DSA-problems/tree/master/1187-make-array-strictly-increasing) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/A-bhi-del/DSA-problems/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1250-check-if-it-is-a-good-array](https://github.com/A-bhi-del/DSA-problems/tree/master/1250-check-if-it-is-a-good-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/A-bhi-del/DSA-problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0769-max-chunks-to-make-sorted](https://github.com/A-bhi-del/DSA-problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0870-advantage-shuffle](https://github.com/A-bhi-del/DSA-problems/tree/master/0870-advantage-shuffle) |
+| [1053-previous-permutation-with-one-swap](https://github.com/A-bhi-del/DSA-problems/tree/master/1053-previous-permutation-with-one-swap) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/A-bhi-del/DSA-problems/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/A-bhi-del/DSA-problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/A-bhi-del/DSA-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
