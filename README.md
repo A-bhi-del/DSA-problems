@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-check-if-it-is-a-good-array](https://github.com/A-bhi-del/DSA-problems/tree/master/1250-check-if-it-is-a-good-array) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/A-bhi-del/DSA-problems/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/A-bhi-del/DSA-problems/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/A-bhi-del/DSA-problems/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/A-bhi-del/DSA-problems/tree/master/1288-remove-covered-intervals) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/A-bhi-del/DSA-problems/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1301-number-of-paths-with-max-score](https://github.com/A-bhi-del/DSA-problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/A-bhi-del/DSA-problems/tree/master/1267-count-servers-that-communicate) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/A-bhi-del/DSA-problems/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/A-bhi-del/DSA-problems/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/A-bhi-del/DSA-problems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/A-bhi-del/DSA-problems/tree/master/0684-redundant-connection) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/A-bhi-del/DSA-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/A-bhi-del/DSA-problems/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1267-count-servers-that-communicate](https://github.com/A-bhi-del/DSA-problems/tree/master/1267-count-servers-that-communicate) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/A-bhi-del/DSA-problems/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/A-bhi-del/DSA-problems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/A-bhi-del/DSA-problems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/A-bhi-del/DSA-problems/tree/master/0815-bus-routes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/A-bhi-del/DSA-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/A-bhi-del/DSA-problems/tree/master/1267-count-servers-that-communicate) |
 | [2258-escape-the-spreading-fire](https://github.com/A-bhi-del/DSA-problems/tree/master/2258-escape-the-spreading-fire) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/A-bhi-del/DSA-problems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/A-bhi-del/DSA-problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/A-bhi-del/DSA-problems/tree/master/0684-redundant-connection) |
+| [1267-count-servers-that-communicate](https://github.com/A-bhi-del/DSA-problems/tree/master/1267-count-servers-that-communicate) |
 | [1627-graph-connectivity-with-threshold](https://github.com/A-bhi-del/DSA-problems/tree/master/1627-graph-connectivity-with-threshold) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/A-bhi-del/DSA-problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/A-bhi-del/DSA-problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -359,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/A-bhi-del/DSA-problems/tree/master/0835-image-overlap) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/A-bhi-del/DSA-problems/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/A-bhi-del/DSA-problems/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/A-bhi-del/DSA-problems/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/A-bhi-del/DSA-problems/tree/master/1301-number-of-paths-with-max-score) |
 | [2258-escape-the-spreading-fire](https://github.com/A-bhi-del/DSA-problems/tree/master/2258-escape-the-spreading-fire) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/A-bhi-del/DSA-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
