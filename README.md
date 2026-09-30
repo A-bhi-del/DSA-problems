@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/A-bhi-del/DSA-problems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/A-bhi-del/DSA-problems/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/A-bhi-del/DSA-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2288-apply-discount-to-prices](https://github.com/A-bhi-del/DSA-problems/tree/master/2288-apply-discount-to-prices) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/A-bhi-del/DSA-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2478-number-of-beautiful-partitions](https://github.com/A-bhi-del/DSA-problems/tree/master/2478-number-of-beautiful-partitions) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/A-bhi-del/DSA-problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
