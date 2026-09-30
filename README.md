@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/A-bhi-del/DSA-problems/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/A-bhi-del/DSA-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/A-bhi-del/DSA-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1992-find-all-groups-of-farmland](https://github.com/A-bhi-del/DSA-problems/tree/master/1992-find-all-groups-of-farmland) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/A-bhi-del/DSA-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/A-bhi-del/DSA-problems/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/A-bhi-del/DSA-problems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/A-bhi-del/DSA-problems/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1267-count-servers-that-communicate](https://github.com/A-bhi-del/DSA-problems/tree/master/1267-count-servers-that-communicate) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/A-bhi-del/DSA-problems/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [1992-find-all-groups-of-farmland](https://github.com/A-bhi-del/DSA-problems/tree/master/1992-find-all-groups-of-farmland) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/A-bhi-del/DSA-problems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/A-bhi-del/DSA-problems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/A-bhi-del/DSA-problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/A-bhi-del/DSA-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/1096-brace-expansion-ii) |
 | [1267-count-servers-that-communicate](https://github.com/A-bhi-del/DSA-problems/tree/master/1267-count-servers-that-communicate) |
+| [1992-find-all-groups-of-farmland](https://github.com/A-bhi-del/DSA-problems/tree/master/1992-find-all-groups-of-farmland) |
 | [2258-escape-the-spreading-fire](https://github.com/A-bhi-del/DSA-problems/tree/master/2258-escape-the-spreading-fire) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/A-bhi-del/DSA-problems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/A-bhi-del/DSA-problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/A-bhi-del/DSA-problems/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/A-bhi-del/DSA-problems/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/A-bhi-del/DSA-problems/tree/master/1301-number-of-paths-with-max-score) |
+| [1992-find-all-groups-of-farmland](https://github.com/A-bhi-del/DSA-problems/tree/master/1992-find-all-groups-of-farmland) |
 | [2258-escape-the-spreading-fire](https://github.com/A-bhi-del/DSA-problems/tree/master/2258-escape-the-spreading-fire) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/A-bhi-del/DSA-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
