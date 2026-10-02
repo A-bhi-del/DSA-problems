@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/A-bhi-del/DSA-problems/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/A-bhi-del/DSA-problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0068-text-justification](https://github.com/A-bhi-del/DSA-problems/tree/master/0068-text-justification) |
 | [0087-scramble-string](https://github.com/A-bhi-del/DSA-problems/tree/master/0087-scramble-string) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/A-bhi-del/DSA-problems/tree/master/0022-generate-parentheses) |
 | [0087-scramble-string](https://github.com/A-bhi-del/DSA-problems/tree/master/0087-scramble-string) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/A-bhi-del/DSA-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0413-arithmetic-slices](https://github.com/A-bhi-del/DSA-problems/tree/master/0413-arithmetic-slices) |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/A-bhi-del/DSA-problems/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/A-bhi-del/DSA-problems/tree/master/0257-binary-tree-paths) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/A-bhi-del/DSA-problems/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1096-brace-expansion-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/1096-brace-expansion-ii) |
@@ -757,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/A-bhi-del/DSA-problems/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/A-bhi-del/DSA-problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/A-bhi-del/DSA-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
