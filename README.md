@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/A-bhi-del/DSA-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/A-bhi-del/DSA-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1992-find-all-groups-of-farmland](https://github.com/A-bhi-del/DSA-problems/tree/master/1992-find-all-groups-of-farmland) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/A-bhi-del/DSA-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/A-bhi-del/DSA-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/A-bhi-del/DSA-problems/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/A-bhi-del/DSA-problems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/A-bhi-del/DSA-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1834-single-threaded-cpu](https://github.com/A-bhi-del/DSA-problems/tree/master/1834-single-threaded-cpu) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/A-bhi-del/DSA-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/A-bhi-del/DSA-problems/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/A-bhi-del/DSA-problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1872-stone-game-viii](https://github.com/A-bhi-del/DSA-problems/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/A-bhi-del/DSA-problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/A-bhi-del/DSA-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/A-bhi-del/DSA-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2321-maximum-score-of-spliced-array](https://github.com/A-bhi-del/DSA-problems/tree/master/2321-maximum-score-of-spliced-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/A-bhi-del/DSA-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/A-bhi-del/DSA-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/A-bhi-del/DSA-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/A-bhi-del/DSA-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2258-escape-the-spreading-fire](https://github.com/A-bhi-del/DSA-problems/tree/master/2258-escape-the-spreading-fire) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/A-bhi-del/DSA-problems/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/A-bhi-del/DSA-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -496,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/A-bhi-del/DSA-problems/tree/master/0556-next-greater-element-iii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/A-bhi-del/DSA-problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0870-advantage-shuffle](https://github.com/A-bhi-del/DSA-problems/tree/master/0870-advantage-shuffle) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/A-bhi-del/DSA-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/A-bhi-del/DSA-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/A-bhi-del/DSA-problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -504,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/A-bhi-del/DSA-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/A-bhi-del/DSA-problems/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
@@ -692,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/A-bhi-del/DSA-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/A-bhi-del/DSA-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Binary Indexed Tree
 |  |
@@ -763,4 +770,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/A-bhi-del/DSA-problems/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/A-bhi-del/DSA-problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/A-bhi-del/DSA-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Meet in the Middle
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/A-bhi-del/DSA-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/A-bhi-del/DSA-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
