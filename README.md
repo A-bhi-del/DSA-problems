@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/A-bhi-del/DSA-problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/A-bhi-del/DSA-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0769-max-chunks-to-make-sorted](https://github.com/A-bhi-del/DSA-problems/tree/master/0769-max-chunks-to-make-sorted) |
+| [0805-split-array-with-same-average](https://github.com/A-bhi-del/DSA-problems/tree/master/0805-split-array-with-same-average) |
 | [0815-bus-routes](https://github.com/A-bhi-del/DSA-problems/tree/master/0815-bus-routes) |
 | [0835-image-overlap](https://github.com/A-bhi-del/DSA-problems/tree/master/0835-image-overlap) |
 | [0870-advantage-shuffle](https://github.com/A-bhi-del/DSA-problems/tree/master/0870-advantage-shuffle) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/A-bhi-del/DSA-problems/tree/master/0391-perfect-rectangle) |
 | [0560-subarray-sum-equals-k](https://github.com/A-bhi-del/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/A-bhi-del/DSA-problems/tree/master/0652-find-duplicate-subtrees) |
+| [0805-split-array-with-same-average](https://github.com/A-bhi-del/DSA-problems/tree/master/0805-split-array-with-same-average) |
 | [0815-bus-routes](https://github.com/A-bhi-del/DSA-problems/tree/master/0815-bus-routes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/A-bhi-del/DSA-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0911-online-election](https://github.com/A-bhi-del/DSA-problems/tree/master/0911-online-election) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/A-bhi-del/DSA-problems/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/A-bhi-del/DSA-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/A-bhi-del/DSA-problems/tree/master/0678-valid-parenthesis-string) |
+| [0805-split-array-with-same-average](https://github.com/A-bhi-del/DSA-problems/tree/master/0805-split-array-with-same-average) |
 | [0940-distinct-subsequences-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/0940-distinct-subsequences-ii) |
 | [1187-make-array-strictly-increasing](https://github.com/A-bhi-del/DSA-problems/tree/master/1187-make-array-strictly-increasing) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/A-bhi-del/DSA-problems/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/A-bhi-del/DSA-problems/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/A-bhi-del/DSA-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0754-reach-a-number](https://github.com/A-bhi-del/DSA-problems/tree/master/0754-reach-a-number) |
+| [0805-split-array-with-same-average](https://github.com/A-bhi-del/DSA-problems/tree/master/0805-split-array-with-same-average) |
 | [0836-rectangle-overlap](https://github.com/A-bhi-del/DSA-problems/tree/master/0836-rectangle-overlap) |
 | [1037-valid-boomerang](https://github.com/A-bhi-del/DSA-problems/tree/master/1037-valid-boomerang) |
 | [1201-ugly-number-iii](https://github.com/A-bhi-del/DSA-problems/tree/master/1201-ugly-number-iii) |
@@ -513,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0805-split-array-with-same-average](https://github.com/A-bhi-del/DSA-problems/tree/master/0805-split-array-with-same-average) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/A-bhi-del/DSA-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -778,9 +783,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Meet in the Middle
 |  |
 | ------- |
+| [0805-split-array-with-same-average](https://github.com/A-bhi-del/DSA-problems/tree/master/0805-split-array-with-same-average) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/A-bhi-del/DSA-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bitmask
 |  |
 | ------- |
+| [0805-split-array-with-same-average](https://github.com/A-bhi-del/DSA-problems/tree/master/0805-split-array-with-same-average) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/A-bhi-del/DSA-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
