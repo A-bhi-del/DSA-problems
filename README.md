@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/A-bhi-del/DSA-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/A-bhi-del/DSA-problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/A-bhi-del/DSA-problems/tree/master/0678-valid-parenthesis-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/A-bhi-del/DSA-problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0870-advantage-shuffle](https://github.com/A-bhi-del/DSA-problems/tree/master/0870-advantage-shuffle) |
 | [1053-previous-permutation-with-one-swap](https://github.com/A-bhi-del/DSA-problems/tree/master/1053-previous-permutation-with-one-swap) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/A-bhi-del/DSA-problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/A-bhi-del/DSA-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/A-bhi-del/DSA-problems/tree/master/0556-next-greater-element-iii) |
+| [0678-valid-parenthesis-string](https://github.com/A-bhi-del/DSA-problems/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/0940-distinct-subsequences-ii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/A-bhi-del/DSA-problems/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1044-longest-duplicate-substring](https://github.com/A-bhi-del/DSA-problems/tree/master/1044-longest-duplicate-substring) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/A-bhi-del/DSA-problems/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/A-bhi-del/DSA-problems/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/A-bhi-del/DSA-problems/tree/master/0516-longest-palindromic-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/A-bhi-del/DSA-problems/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/0940-distinct-subsequences-ii) |
 | [1187-make-array-strictly-increasing](https://github.com/A-bhi-del/DSA-problems/tree/master/1187-make-array-strictly-increasing) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/A-bhi-del/DSA-problems/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/A-bhi-del/DSA-problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/A-bhi-del/DSA-problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/A-bhi-del/DSA-problems/tree/master/0678-valid-parenthesis-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/A-bhi-del/DSA-problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0946-validate-stack-sequences](https://github.com/A-bhi-del/DSA-problems/tree/master/0946-validate-stack-sequences) |
 | [1096-brace-expansion-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/1096-brace-expansion-ii) |
@@ -768,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/A-bhi-del/DSA-problems/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/A-bhi-del/DSA-problems/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/A-bhi-del/DSA-problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/A-bhi-del/DSA-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Meet in the Middle
