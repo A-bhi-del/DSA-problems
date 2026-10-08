@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/A-bhi-del/DSA-problems/tree/master/0941-valid-mountain-array) |
 | [0946-validate-stack-sequences](https://github.com/A-bhi-del/DSA-problems/tree/master/0946-validate-stack-sequences) |
 | [1001-grid-illumination](https://github.com/A-bhi-del/DSA-problems/tree/master/1001-grid-illumination) |
+| [1036-escape-a-large-maze](https://github.com/A-bhi-del/DSA-problems/tree/master/1036-escape-a-large-maze) |
 | [1037-valid-boomerang](https://github.com/A-bhi-del/DSA-problems/tree/master/1037-valid-boomerang) |
 | [1053-previous-permutation-with-one-swap](https://github.com/A-bhi-del/DSA-problems/tree/master/1053-previous-permutation-with-one-swap) |
 | [1187-make-array-strictly-increasing](https://github.com/A-bhi-del/DSA-problems/tree/master/1187-make-array-strictly-increasing) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/A-bhi-del/DSA-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0911-online-election](https://github.com/A-bhi-del/DSA-problems/tree/master/0911-online-election) |
 | [1001-grid-illumination](https://github.com/A-bhi-del/DSA-problems/tree/master/1001-grid-illumination) |
+| [1036-escape-a-large-maze](https://github.com/A-bhi-del/DSA-problems/tree/master/1036-escape-a-large-maze) |
 | [1096-brace-expansion-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/A-bhi-del/DSA-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1357-apply-discount-every-n-orders](https://github.com/A-bhi-del/DSA-problems/tree/master/1357-apply-discount-every-n-orders) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/A-bhi-del/DSA-problems/tree/master/0684-redundant-connection) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/A-bhi-del/DSA-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/A-bhi-del/DSA-problems/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1036-escape-a-large-maze](https://github.com/A-bhi-del/DSA-problems/tree/master/1036-escape-a-large-maze) |
 | [1267-count-servers-that-communicate](https://github.com/A-bhi-del/DSA-problems/tree/master/1267-count-servers-that-communicate) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/A-bhi-del/DSA-problems/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1992-find-all-groups-of-farmland](https://github.com/A-bhi-del/DSA-problems/tree/master/1992-find-all-groups-of-farmland) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/A-bhi-del/DSA-problems/tree/master/0684-redundant-connection) |
 | [0815-bus-routes](https://github.com/A-bhi-del/DSA-problems/tree/master/0815-bus-routes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/A-bhi-del/DSA-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1036-escape-a-large-maze](https://github.com/A-bhi-del/DSA-problems/tree/master/1036-escape-a-large-maze) |
 | [1096-brace-expansion-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/1096-brace-expansion-ii) |
 | [1267-count-servers-that-communicate](https://github.com/A-bhi-del/DSA-problems/tree/master/1267-count-servers-that-communicate) |
 | [1992-find-all-groups-of-farmland](https://github.com/A-bhi-del/DSA-problems/tree/master/1992-find-all-groups-of-farmland) |
@@ -793,4 +797,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0805-split-array-with-same-average](https://github.com/A-bhi-del/DSA-problems/tree/master/0805-split-array-with-same-average) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/A-bhi-del/DSA-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bidirectional Search
+|  |
+| ------- |
+| [1036-escape-a-large-maze](https://github.com/A-bhi-del/DSA-problems/tree/master/1036-escape-a-large-maze) |
 <!---LeetCode Topics End-->
