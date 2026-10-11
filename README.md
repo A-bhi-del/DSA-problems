@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-min-max-game](https://github.com/A-bhi-del/DSA-problems/tree/master/2293-min-max-game) |
 | [2321-maximum-score-of-spliced-array](https://github.com/A-bhi-del/DSA-problems/tree/master/2321-maximum-score-of-spliced-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/A-bhi-del/DSA-problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/A-bhi-del/DSA-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/A-bhi-del/DSA-problems/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/A-bhi-del/DSA-problems/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/A-bhi-del/DSA-problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/A-bhi-del/DSA-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/A-bhi-del/DSA-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3483-unique-3-digit-even-numbers](https://github.com/A-bhi-del/DSA-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/A-bhi-del/DSA-problems/tree/master/3499-maximize-active-section-with-trade-i) |
