@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/A-bhi-del/DSA-problems/tree/master/3524-find-x-value-of-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/A-bhi-del/DSA-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/A-bhi-del/DSA-problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/A-bhi-del/DSA-problems/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3664-two-letter-card-game](https://github.com/A-bhi-del/DSA-problems/tree/master/3664-two-letter-card-game) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/A-bhi-del/DSA-problems/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/A-bhi-del/DSA-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/A-bhi-del/DSA-problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3664-two-letter-card-game](https://github.com/A-bhi-del/DSA-problems/tree/master/3664-two-letter-card-game) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/A-bhi-del/DSA-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/A-bhi-del/DSA-problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/A-bhi-del/DSA-problems/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/A-bhi-del/DSA-problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/A-bhi-del/DSA-problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/A-bhi-del/DSA-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/A-bhi-del/DSA-problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/A-bhi-del/DSA-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
