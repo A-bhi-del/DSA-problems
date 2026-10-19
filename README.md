@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/A-bhi-del/DSA-problems/tree/master/0815-bus-routes) |
 | [0835-image-overlap](https://github.com/A-bhi-del/DSA-problems/tree/master/0835-image-overlap) |
 | [0870-advantage-shuffle](https://github.com/A-bhi-del/DSA-problems/tree/master/0870-advantage-shuffle) |
+| [0896-monotonic-array](https://github.com/A-bhi-del/DSA-problems/tree/master/0896-monotonic-array) |
 | [0911-online-election](https://github.com/A-bhi-del/DSA-problems/tree/master/0911-online-election) |
 | [0941-valid-mountain-array](https://github.com/A-bhi-del/DSA-problems/tree/master/0941-valid-mountain-array) |
 | [0946-validate-stack-sequences](https://github.com/A-bhi-del/DSA-problems/tree/master/0946-validate-stack-sequences) |
