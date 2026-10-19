@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/A-bhi-del/DSA-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1992-find-all-groups-of-farmland](https://github.com/A-bhi-del/DSA-problems/tree/master/1992-find-all-groups-of-farmland) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/A-bhi-del/DSA-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/A-bhi-del/DSA-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/A-bhi-del/DSA-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/A-bhi-del/DSA-problems/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/A-bhi-del/DSA-problems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1834-single-threaded-cpu](https://github.com/A-bhi-del/DSA-problems/tree/master/1834-single-threaded-cpu) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/A-bhi-del/DSA-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/A-bhi-del/DSA-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/A-bhi-del/DSA-problems/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/A-bhi-del/DSA-problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/A-bhi-del/DSA-problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/A-bhi-del/DSA-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/A-bhi-del/DSA-problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/A-bhi-del/DSA-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2258-escape-the-spreading-fire](https://github.com/A-bhi-del/DSA-problems/tree/master/2258-escape-the-spreading-fire) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/A-bhi-del/DSA-problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/A-bhi-del/DSA-problems/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
