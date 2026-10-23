@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/A-bhi-del/DSA-problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/A-bhi-del/DSA-problems/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/A-bhi-del/DSA-problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3664-two-letter-card-game](https://github.com/A-bhi-del/DSA-problems/tree/master/3664-two-letter-card-game) |
 | [3665-twisted-mirror-path-count](https://github.com/A-bhi-del/DSA-problems/tree/master/3665-twisted-mirror-path-count) |
 | [3676-count-bowl-subarrays](https://github.com/A-bhi-del/DSA-problems/tree/master/3676-count-bowl-subarrays) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/A-bhi-del/DSA-problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/A-bhi-del/DSA-problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/A-bhi-del/DSA-problems/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/A-bhi-del/DSA-problems/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Simulation
