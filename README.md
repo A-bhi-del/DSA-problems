@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/A-bhi-del/DSA-problems/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/A-bhi-del/DSA-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2288-apply-discount-to-prices](https://github.com/A-bhi-del/DSA-problems/tree/master/2288-apply-discount-to-prices) |
+| [2409-count-days-spent-together](https://github.com/A-bhi-del/DSA-problems/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/A-bhi-del/DSA-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2478-number-of-beautiful-partitions](https://github.com/A-bhi-del/DSA-problems/tree/master/2478-number-of-beautiful-partitions) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/A-bhi-del/DSA-problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/A-bhi-del/DSA-problems/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/A-bhi-del/DSA-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/A-bhi-del/DSA-problems/tree/master/2165-smallest-value-of-the-rearranged-number) |
+| [2409-count-days-spent-together](https://github.com/A-bhi-del/DSA-problems/tree/master/2409-count-days-spent-together) |
 | [3115-maximum-prime-difference](https://github.com/A-bhi-del/DSA-problems/tree/master/3115-maximum-prime-difference) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
