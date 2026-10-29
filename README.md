@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/A-bhi-del/DSA-problems/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 | [3834-merge-adjacent-equal-elements](https://github.com/A-bhi-del/DSA-problems/tree/master/3834-merge-adjacent-equal-elements) |
 | [3840-house-robber-v](https://github.com/A-bhi-del/DSA-problems/tree/master/3840-house-robber-v) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/A-bhi-del/DSA-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/A-bhi-del/DSA-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3934-smallest-unique-subarray](https://github.com/A-bhi-del/DSA-problems/tree/master/3934-smallest-unique-subarray) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/A-bhi-del/DSA-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/A-bhi-del/DSA-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/A-bhi-del/DSA-problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/A-bhi-del/DSA-problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/A-bhi-del/DSA-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/A-bhi-del/DSA-problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Depth-First Search
 |  |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/A-bhi-del/DSA-problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/A-bhi-del/DSA-problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/A-bhi-del/DSA-problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/A-bhi-del/DSA-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -568,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/A-bhi-del/DSA-problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/A-bhi-del/DSA-problems/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/A-bhi-del/DSA-problems/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/A-bhi-del/DSA-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -602,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/A-bhi-del/DSA-problems/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/A-bhi-del/DSA-problems/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/A-bhi-del/DSA-problems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/A-bhi-del/DSA-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -763,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/A-bhi-del/DSA-problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Least Common Multiple
 |  |
 | ------- |
