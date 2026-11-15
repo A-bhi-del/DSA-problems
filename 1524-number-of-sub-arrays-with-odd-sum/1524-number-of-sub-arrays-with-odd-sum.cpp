@@ -4,25 +4,25 @@ public:
 
     int numOfSubarrays(vector<int>& arr) {
         int n = arr.size();
-        unordered_map<int,int>mp;
+        int one = 0;
+        int zero = 0;
         int sum = 0;
         long long ans = 0;
 
         for(int i = 0; i < n; i++){
             sum += arr[i];
-            mp[sum % 2]++;
+            if(sum % 2 == 1){
+                one++;
+            }else{
+                zero++;
+            }
 
             int type = sum % 2;
 
             if(type == 1){
-                if(mp.count(0)){
-                    ans = (ans + mp[0]) % mod;
-                }
-                ans = (ans + 1) % mod;
+                ans = (ans + zero + 1) % mod;
             }else{
-                if(mp.count(1)){
-                    ans = (ans + mp[1]) % mod;
-                }
+                ans = (ans + one) % mod;
             }
         }
 
