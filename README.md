@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3934-smallest-unique-subarray](https://github.com/A-bhi-del/DSA-problems/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/A-bhi-del/DSA-problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/A-bhi-del/DSA-problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3724-minimum-operations-to-transform-array](https://github.com/A-bhi-del/DSA-problems/tree/master/3724-minimum-operations-to-transform-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/A-bhi-del/DSA-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/A-bhi-del/DSA-problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/A-bhi-del/DSA-problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/A-bhi-del/DSA-problems/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/A-bhi-del/DSA-problems/tree/master/3665-twisted-mirror-path-count) |
 | [3840-house-robber-v](https://github.com/A-bhi-del/DSA-problems/tree/master/3840-house-robber-v) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/A-bhi-del/DSA-problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Topological Sort
 |  |
 | ------- |
